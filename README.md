@@ -1,43 +1,39 @@
-[export-FW4248-1654966774.csv](https://github.com/FW4248/HEXO/files/8884499/export-FW4248-1654966774.csv)
+`https://github.com/FW4248/HEXO/issues/2#issue-1286176883`
+<!-----
+
+
+
+[export-FW4248-1654966774.svg](https://github.com/FW4248/HEXO/files/8884499/export-FW4248-1654966774.csv)
  
  
-   `|5f51|c757|dc4e|`    
-      
-           `||`
-   ``| `<-----06----->`| ``
-           `||`
-  `|20a6||7937||fe97|`
-           `||`
-    ``|<-----04----->|``
-           `||`
-   ``|40ce|28a5|c0ed"|``
+   [!ICON-in-app-exchange](`|5f51|c757|dc4e|``||`285``|`-----06-----`|1``12`||`4`|20a6||7937||fe97|`12`||`5``|-----04-----|``12`||4```|40ce|28a5|c0ed"|``)
  
 
+----->
 
 
 
-
-![Hexo Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/hexo.svg)
+![FW1342/](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/xm.js/ICON.svg)
 
 # Hexo Example
 
-This directory is a S200W64LSC example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration.
+This directory is a S200W64LSC example of a [ICON](https://hexo.io/) site that can be deployed to Vercel with zero configuration.
 
 ## Deploy Your Own
 
 Deploy your own Hexo project with S200W64LSC.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/hexo&template=hexo)
-
+<!----
 _Live Example: https://hexo-template.vercel.app_
-
+---->
 ### How We Created This Example
 
 To get started with Hexo for deployment with Vercel, you can use the [Hexo CLI](https://hexo.io/docs/index.html#Installation) to initialize the project:
 
 
-$ hexo init project-S200W64LSC <!--
-    🆔
+$ ICON init project-S200W64LSC <!--
+  ##  🆔
 -->
 ##   [![CLA assistant check](https://camo.githubusercontent.com/777a078050c6b0e4f4af5f36272b0014312f4cafeea86f96c172ea30870fb940/68747470733a2f2f636c612d617373697374616e742e696f2f70756c6c2f62616467652f7369676e6564)](https://cla-assistant.io/n8n-io/n8n?pullRequest=3437) All FW4248/S200W64LSC have signed the CLA.
 
